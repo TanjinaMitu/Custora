@@ -21,6 +21,7 @@ Custora/
 │   ├── clean_online_retail.csv         # Cleaned & filtered transactions
 │   └── rfm_segments.csv                # Final customer-level RFM table with segments
 └── README.md
+
 > **Note on large file**: `data/online_retail.csv` (>25 MB) is not previewable in GitHub.  
 > Download from Kaggle:  
 > https://www.kaggle.com/datasets/carrie1/ecommerce-data  
